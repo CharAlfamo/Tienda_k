@@ -12,7 +12,7 @@
     <artifactId>tienda</artifactId>
     <version>1</version>
     <name>tienda</name>
-    <description>Proyecto tienda de martes noche</description>
+    <description>projecto web Martes Noche</description>
     <url/>
     <licenses>
         <license/>
@@ -27,7 +27,7 @@
         <url/>
     </scm>
     <properties>
-        <java.version>24</java.version>
+        <java.version>17</java.version>
         <maven.compiler.release>17</maven.compiler.release>
     </properties>
     <dependencies>
@@ -81,7 +81,7 @@
                         <arg>-Xlint</arg>
                     </compilerArgs>
                 </configuration>
-            </plugin>
+            </plugin>  
         </plugins>
     </build>
 
